@@ -1,0 +1,13 @@
+- name: Product
+  link: /#
+  dropdown:
+    - name: Download
+      link: /download/
+    - name: Sponsor
+      link: /sponsors/
+    - name: Gallery
+      link: /gallery/
+- name: Documentation
+  link: /docs/
+- name: Blog
+  link: /blog/
