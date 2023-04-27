@@ -1,14 +1,14 @@
-- tier_name: Platinum Sponsors
+- tier_name: Platinum Supporters
   size: large
   description: |-
     Individuals and Organizations donating more than 500$
-- tier_name: Gold Sponsors
+- tier_name: Gold Supporters
   description: |-
     Individuals and Organizations donating more than from 100$ to 499$
   sponsors:
     - name: Enock N. Michael
       profile: https://github.com/3nock
-- tier_name: Standard Sponsors
+- tier_name: Standard Supporters
   size: small
   description: |-
     Individuals and Organizations donating more than from 10$ to 99$

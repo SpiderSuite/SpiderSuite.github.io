@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizations & individuals financially supporting the development of Spider Suite.
+title: Support SpiderSuite's Development
 sponsors: sponsors
 show_sidebar: false
 hero_height: is-small
