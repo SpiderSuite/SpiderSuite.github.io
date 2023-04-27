@@ -4,10 +4,7 @@ title: Installation
 menubar: docs_menu
 show_sidebar: false
 toc: true
-hero_image: /img/hero4.png
-hero_height: is-medium
-hero_darken: true
-image: /img/hero4.png
+hero_height: is-small
 ---
 
 Installing SpiderSuite involves a series of simple steps which must be completed in the correct

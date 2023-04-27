@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Sponsors
-subtitle: Organizations and individuals who are financially supporting the development of Spider Suite.
+subtitle: Organizations & individuals financially supporting the development of Spider Suite.
 sponsors: sponsors
 show_sidebar: false
-#hero_image: /img/hero4.png
 hero_height: is-small
-#hero_darken: true
-#image: /img/hero4.png
 ---
 
 # Become a supporter of SpiderSuite

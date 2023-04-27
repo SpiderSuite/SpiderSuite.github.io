@@ -5,9 +5,7 @@ categories: tutorial
 description: A brief guide on how to crawl a target site using SpiderSuite
 image: https://SpiderSuite.github.io/img/blog/beginner_guide.png
 published: true
-#hero_image: /img/hero3.png
 hero_height: is-small
-#hero_darken: true
 ---
 
 This guide is intended to serve as a basic introduction for using SpiderSuite to perform target site `crawling`, and `Bruteforcing`. This guide is especially useful if you are new to crawling with SpiderSuite. On that note, this document is not intended to be a comprehensive guide for using SpiderSuite.
