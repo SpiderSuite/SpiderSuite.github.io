@@ -2,11 +2,11 @@
 lang: en
 title: SpiderSuite
 tagline: Spider Suite
-email: enock.n.michael@gmail.com
+email: spid3rsuite@gmail.com
 description: >
   The landing page for Spider Suite software.
 baseurl: "/"
-url: "https://3nock.github.io"
+url: "https://SpiderSuite.github.io"
 permalink: pretty
 favicon: /img/favicon.png
 #gh_sponsor: 3nock

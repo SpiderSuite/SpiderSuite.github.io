@@ -3,7 +3,7 @@ layout: post
 title: First time crawling with SpiderSuite
 categories: tutorial
 description: A brief guide on how to crawl a target site using SpiderSuite
-image: https://3nock.github.io/img/blog/beginner_guide.png
+image: https://SpiderSuite.github.io/img/blog/beginner_guide.png
 published: true
 hero_image: /img/hero3.png
 hero_height: is-medium
