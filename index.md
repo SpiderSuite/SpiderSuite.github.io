@@ -6,6 +6,8 @@ show_sidebar: true
 hero_image: /img/hero0.png
 hero_height: is-medium
 hero_darken: true
+hero_link: /download/
+hero_link_text: Download
 image: /img/hero0.png
 ---
 
@@ -42,4 +44,4 @@ You as an individual or organization with passion for development of cyber secur
 
 - Have a skill? Checkout how you can [contribute](https://github.com/3nock/SpiderSuite/CONTRIBUTING.md) to the development of Spider Suite.
 
-- Want to support Spider Suite financially?  Consider [sponsoring](/sponsors/) the project.
+- Want to support Spider Suite financially?  Consider [sponsoring](/sponsor/) the project.
