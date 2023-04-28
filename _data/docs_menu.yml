@@ -1,5 +1,7 @@
 - label: Getting Started
   items:
+    - name: Start
+      link: /docs/
     - name: Overview
       link: /docs/Overview
     - name: Installation
@@ -48,7 +50,8 @@
         - name: Graph
           link: /docs/Crawling#graph
 
-- label: Tools
+- name: Tools
+  link: /docs/Tools
   items:
   - name: Passive Crawler Tool
     link: /docs/Tools#passive-crawler-tool
