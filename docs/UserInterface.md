@@ -68,15 +68,17 @@ Contains actions that can be performed on the application and the project.
 
     - **Log Viewer** – Displays all scan and program logs.
 
-    - **Donate** - Takes you to a page for donating to the SpiderSuite project.
+    - **Documentation** - Takes you to the official documentation of SpiderSuite.
 
-    - **Blog** - Takes you to SpiderSuite blog where all you can find all articles and documentation on SpiderSuite.
+    - **Donate** - Takes you to official donation page for Spider Suite project.
 
-    - **Twitter** - Takes you to SpiderSuite’s twitter page.
+    - **Website** - Takes you to SpiderSuite official website where you can find all the all information, blog and documentation on SpiderSuite.
 
-    - **Github** - Takes you to SpiderSuite’s Github repository page.
+    - **Twitter** - Takes you to official SpiderSuite’s twitter page.
 
-    - **Check For Updates** - checks for any available updates on SpiderSuite.
+    - **Github** - Takes you to official SpiderSuite’s Github repository page.
+
+    - **Check For Updates** - checks for any available SpiderSuite updates from the repository.
 
     - **About** - Information about SpiderSuite.
 
@@ -101,21 +103,21 @@ Displays the crawled pages or pages imported from other tools.
     - Archive (displays only archive files)
     - Binary (displays only binary files)
     - Font (displays only font files)
-    - Misc (displays miscelleneous files)
+    - Misc (displays miscellaneous files)
 
 - **List** - Displays the pages crawled in a list format
 
-- **Tree** - Displays the pages crawled in a tree hierrachical structure
+- **Tree** - Displays the pages crawled in a tree hierarchical  structure
 
 - **[Action >] button** - Provides a menu of actions that you can perform on the displayed sitemap pages.
 
 ## **Request View**
 
-Perfoms HTTP(S) request on the provided target then saves and display the results.
+Performs HTTP(S) request on the provided target then saves and display the results.
 
-This feature is useful for performing manual tests on a target. The request are sent one after another and you can only send another request when the previous request has elicited a response.
+This feature is useful for performing manual tests on a target. The requests are sent one after another and you can only send another request when the previous request has elicited a response.
 
-- **HTTP version ComboBox** - Choose the HTTP verison (HTTP/1.X or HTTP/2.X) to use for request.
+- **HTTP version ComboBox** - Choose the HTTP version (HTTP/1.X or HTTP/2.X) to use for request.
 
 - **Method type ComboBox** - Choose the Method(GET,POST,PUT,DELETE) to use for HTTP request.
 
