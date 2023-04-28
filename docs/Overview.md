@@ -3,7 +3,7 @@ layout: page
 title: Overview
 menubar: docs_menu
 show_sidebar: false
-toc: true
+toc: false
 hero_height: is-small
 ---
 
