@@ -4,15 +4,10 @@
       link: /docs/Overview
     - name: Installation
       link: /docs/Installation
-    - name: Features
-      link: /docs/Features
+    - name: User Interface
+      link: /docs/UserInterface
 
-- label: Components
-  items:
-  - name: User Interface
-    link: /docs/UserInterface
-
-- label: Spider
+- label: Spider / Crawler
   items:
   - name: Configurations
     link: /docs/Configurations
@@ -42,32 +37,21 @@
   - name: Crawling
     link: /docs/Crawling
     items:
-        - name: Supported Features
-          link: /docs/Crawling#features-supported-by-spider-suite-crawler
+        - name: Crawler Configuration
+          link: /docs/Crawling#configure-the-crawler
         - name: Crawling From Single Link
           link: /docs/Crawling#crawling-from-a-single-link
-        - name: Crawling From Seed Links
-          link: /docs/Crawling#crawling-a-target-with-seed
-        - name: Crawling Constant number of links
-          link: /docs/Crawling#crawling-a-constant-number-of-links
-        - name: Troubleshooting Crawler
-          link: /docs/Crawling#troubleshooting-the-crawler
-  - name: Analysis
-    link: /docs/Analysis
-    items:
-        - name: Structure
-          link: /docs/Analysis#page-structure
-        - name: Source
-          link: /docs/Analysis#page-source
+        - name: Advance Crawling
+          link: /docs/Crawling#advance-crawling
+        - name: Sitemap
+          link: /docs/Crawling#sitemap
         - name: Graph
-          link: /docs/Analysis#crawl-graph-visualization
+          link: /docs/Crawling#graph
 
 - label: Tools
   items:
   - name: Passive Crawler Tool
     link: /docs/Tools#passive-crawler-tool
-  - name: Request Tool
-    link: /docs/Tools#request-tool
   - name: SSL Certificates Tool
     link: /docs/Tools#ssl-certificates-tool
   - name: Decoder Tool

@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Articles
+title: Articles on SpiderSuite
 menubar: docs_menu
 show_sidebar: false
 toc: true
 hero_height: is-small
 ---
 
-## Articles and Blog-Posts
+* _**Medium Blog: Introducing Spider Suite**_ (https://3nock.medium.com/Introducing-SpiderSuite-An-Advance-Crawler-For-Cyber-Security-Professionals)
 
-* _**SpiderSuite's Blog: First time crawling with SpiderSuite**_ ()
-* _**Medium Blog: Introducing Spider Suite**_ ()
-
-## Release overviews
-
-* _**SpiderSuite's Blog : what's new in [Spider Suite v1.0.0]()**_
+* _**SpiderSuite Blog: First time crawling with SpiderSuite**_ (https://spidersuite.github.io/tutorial/2023/04/22/beginner-guide/)

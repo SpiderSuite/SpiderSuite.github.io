@@ -9,18 +9,29 @@ hero_height: is-small
 
 The crawl phase of a scan involves navigating around the target web application, following links and submitting forms to catalog the content of the entire target web application and the navigational paths within it to create an accurate map of the target web application.
 
-## **Features Supported by Spider Suite Crawler**
+## **Configure the crawler**
 
-* HTTP 1 and HTTP 2
+Next step is to set the configurations for the crawler to run on.
 
-Spider Suite supports crawling with both `http1` and `http2` and the user can configure which protocal to use for the particular crawl.
+`This is a very crucial step` as the performance and success of the crawler depends on the configurations you have set. Take time to study the effects of all the [Configrations](Configurations).
 
-It is highly recommended to use `http2` for crawling if the target server supports it due to its advantages of speed and efficiency.
+Click the <img src="/docs/res/config_action.png"  width=14> (`config action`) on the toolbar to get access to the configuration dialog where you can set preferred configurations.
 
-* Only static crawling is supported for now.
+The configurations that affect the crawler are:
 
-Spider Suite version 1.0.0 only supports static crawling of pages meaning it can only crawl links it statically finds in the page no page manipulation or dynamic loading of pages for crawling is supported for now.
+- **Limits**- Sets all the limitations for the crawler
 
+- **Crawler**- Sets all the essesntial crawler configurations
+
+- **Headers**- Sets the http request headers to be used by the crawler request.
+
+- **Input Fields**- Sets the values for the page's input fields for automatic filling and submition.
+
+- **Exclusion**- Sets the paths, cookies, file extensions and url parameters to be excluded for the crawl.
+
+- **Authentication**- Sets values for automatic authentication by the crawler.
+
+- **Proxy**- Sets the proxy address and port where all crawl request will pass through.
 
 
 ## **Crawling from a Single Link**
@@ -30,10 +41,7 @@ To start crawling requires you to follow the following simple and few procedures
 
 * **Input the target link**
 
-The Target input box
-<center><img src="/docs/res/empty_input.png"></center>
-
-Add the target input to the input box of Spider Suite.
+Add the target url link.
 
 <center><img src="/docs/res/filled_input.png"></center>
 
@@ -52,30 +60,6 @@ Always make sure that you have input a valid url with its protocal/schema.
         example.com
         https://example/
         https://example.com?param1=value1&param2=value2
-
-* **Configure the crawler**
-
-Next step is to set the configurations for the crawler to run on.
-
-`This is a very crucial step` as the performance and success of the crawler depends on the configurations you have set. Take time to study the effects of all the [Configrations](Configurations).
-
-Click the <img src="/docs/res/config_action.png"  width=14> (`config action`) on the toolbar to get access to the configuration dialog where you can set preferred configurations.
-
-The configurations that affect the crawler are:
-
-`Limits:` Sets all the limitations for the crawler
-
-`Crawler:` Sets all the essesntial crawler configurations
-
-`Headers:` Sets the http request headers to be used by the crawler request.
-
-`Input Fields:` Sets the values for the page's input fields for automatic filling and submition.
-
-`Exclusion:` Sets the paths, cookies, file extensions and url parameters to be excluded for the crawl.
-
-`Authentication:` Sets values for automatic authentication by the crawler.
-
-`Proxy:` Sets the proxy address and port where all crawl request will pass through.
 
 * **Start Crawler**
 
@@ -109,16 +93,108 @@ After stopping the crawler you may be prompted to save all the remaining target 
 
 <center><img src="/docs/res/queued_links_prompt.png"></center>
 
-If you accept all the pending links will be added to the passive crawler tab.
-
-<center><img src="/docs/res/passive_sitemap.png"></center>
+If you accept all the pending links will be added to the passive crawler tool.
 
 If you deny all the pending links will be discarded.
 
-## **Crawling a Target with Seed**
-Crawling a target with seed
+## **Advance Crawling.**
 
-## **Crawling a constant number of Links**
-Spider Suite has the ability to crawl(fetch) a list of url links and present the successfully fetched pages.
+SpiderSuite has advance crawling options:
 
-## **TroubleShooting the Crawler**
+* [Crawling target with initial seed links](#crawling-target-with-initial-seed-links)
+* [Fetching list of links](#fetching-list-of-links)
+* [Bruteforcing pages/directories](#bruteforcing-pagesdirectories)
+
+This advance crawling can be accessed by clicking on the `[...]` button.
+
+<center><img src="/docs/res/crawling_advance.png"></center> 
+
+### **Crawling target with initial seed links**
+
+With SpiderSuite you have the ability to provide an initial list of links (`seed links`) of the particular target and they will be added to the crawler queue of links to be crawled.
+
+- Enter Target link
+<center><img src="/docs/res/crawling_advance_crawl_target.png"></center>
+
+- Add Seed links
+<center><img src="/docs/res/crawling_advance_crawl_seed.png"></center>
+
+_**Note:**_ The provided list of links should all relate (have the same hostname) to the main target link as the crawler uses the main target link as the reference point for all the links to be crawled.
+
+- Click on `Crawl` to begin crawling
+<center><img src="/docs/res/crawling_advance_crawl_start.png"></center>
+
+### **Fetching list of links**
+With SpiderSuite you also have the ability to fetch a provided list of links.
+
+This type of crawling (fetching) does not crawl any additional links extrated from the crawled pages. Only the provided links will be crawled.
+
+- You can provide file containing the list of links to be fetched. This is ideal for fectching a very long list of links as the file is not loaded into memory(it uses a streaming api to get line after line of link from the file and fetches it)
+
+<center><img src="/docs/res/crawling_fetch_file.png"></center>
+
+- Or you can input the list of links to be fetched. This is ideal for fetching a small to medium list of links as the list is stored in memory.
+
+<center><img src="/docs/res/crawling_fetch_input.png"></center>
+
+- Start the crawling by clicking on `Fetch` button.
+
+<center><img src="/docs/res/crawling_fetch_start.png"></center>
+
+### **Bruteforcing pages/directories**
+
+Lastly SpiderSuite also has the ability to bruteforce target sites's directories(pages). This is a useful feature for scoping directories and files that may be hidden.
+
+- Set the target link(url).
+<center><img src="/docs/res/crawling_brute_target.png"></center>
+
+- You can provide file containing the wordlist pages/directories to be used for bruteforcing. This is ideal for bruteforcing with a very long wordlist as the file is not loaded into memory(it uses a streaming api to get line after line of page name from the file, append it to the target link and fetch it).
+<center><img src="/docs/res/crawling_brute_file.png"></center>
+
+- Or you can input the wordlist for bruteforce. This is ideal for small to medium worldlist.
+<center><img src="/docs/res/crawling_brute_input.png"></center>
+
+- Start bruteforcing by clicking on `Bruteforce` button.
+<center><img src="/docs/res/crawling_brute_start.png"></center>
+
+## **Sitemap**
+
+All the results from `Crawling`, `Fetching` and `Bruteforcing` will be displayed on SpiderSuite's Sitemap.
+
+<center><img src="/docs/res/crawling_sitemap.png"></center>
+
+The actual pages are already saved on SpiderSuite's current project database (.sspd) file.
+
+To view content of any page on the sitemap simply click on it and all its content will be displayed on the structure and source tab.
+
+<center><img src="/docs/res/crawling_structure.png"></center>
+
+You can browse the structure and source tab to view all the content extracted from the particular page you clicked on.
+
+You can perform desired actions on a page on sitemap by right clicking on it and choosing the action you want to perform.
+<center><img src="/docs/res/crawling_sitemap_rightclick.png"></center>
+
+Or You can perform desired actions on the entire list on sitemap by clicking on the `Actions` button. Please note that the Actions button is only activated if there are links on the sitemap.
+<center><img src="/docs/res/crawling_sitemap_actions.png"></center>
+
+## **Graph**
+
+SpiderSuite has the capabilities of visualizing the links on the sitemap using a graph and also ability to manipulate the graph to your liking.
+
+- Visualize the Entire sitemap's on a graph.
+
+Simply click on the `Actions` button and click on `Show Graph` action to visualize the graph.
+<center><img src="/docs/res/crawling_graph_actions.png"></center>
+
+- Visualize a sitemap branch on a graph.
+
+First change the Sitemap's view to `Tree` view.
+<center><img src="/docs/res/crawling_graph_tree.png"></center>
+
+Then Simply `right click` on the branch you want to visualize and click on `Show Graph`. This will only show the graph for that particular choosen branch.
+<center><img src="/docs/res/crawling_graph_rghtclick.png"></center>
+
+- The Graph
+<center><img src="/docs/res/crawling_graph.png"></center>
+
+- You can manipulate the graph to you linking by simply clicking on the <img src="/docs/res/config_action.png"  width=14> (`config action`) icon on graph menu bar and set your desired configurations.

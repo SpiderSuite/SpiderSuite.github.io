@@ -165,6 +165,39 @@ This helps preventing duplicate pages as most of the time the link with and with
 
 `Use with Caution: because the two pages might be different`
 
+* **Extract links from script tag**
+
+Configures the crawler to extract links from javascript code inside the `script` tag. 
+
+If the pages contains many, long and repeatitive javascript scripts it slow might slow down the extraction process hence this configuration disables extraction of links from these scripts.
+
+The disadvantage to this is that the scripts may contain useful links that could expand the target scope.
+
+* **Extract links from style tag**
+
+Configures the crawler to extract links from CSS code inside the `style` tag. 
+
+If the pages contains many, long and repeatitive CSS code it slow might slow down the extraction process hence this configuration disables extraction of links from these styles.
+
+The disadvantage to this is that the styles may contain useful links that could expand the target scope.
+
+* **Extract links from comments**
+
+Configures the crawler to extract links from code comments.
+
+If the pages contains many, long and repeatitive code comments it might slow slow down the extraction process hence this configuration disables extraction of links from these comments.
+
+The disadvantage to this is that the comments may contain useful links that could expand the target scope.
+
+* **Add failed requests (4XX and 5XX) to sitemap**
+
+Configures the crawler not to discard 4XX and 5XX error responses and instead, add them to database and send them to sitemap.
+
+Connection, SSL and other system errors will not be added to sitemap only error responses with 4XX and 5XX.
+
+* **File types to Crawl:**
+
+Configures which files types are allowed to be crawled. HTML files are crawled by default, but for other file types you must allow (by checking the particular checkbox) for them to be crawled. If not allowed the file type will not be added to the spider seed.
 
 * **File types to Crawl:**
 
