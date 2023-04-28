@@ -7,6 +7,6 @@ toc: true
 hero_height: is-small
 ---
 
-* _**Medium Blog: Introducing Spider Suite**_ (https://3nock.medium.com/Introducing-SpiderSuite-An-Advance-Crawler-For-Cyber-Security-Professionals)
+* Medium Blog: [Introducing Spider Suite](https://3nock.medium.com/Introducing-SpiderSuite-An-Advance-Crawler-For-Cyber-Security-Professionals)
 
-* _**SpiderSuite Blog: First time crawling with SpiderSuite**_ (https://spidersuite.github.io/tutorial/2023/04/22/beginner-guide/)
+* SpiderSuite Blog: [First time crawling with SpiderSuite](https://spidersuite.github.io/tutorial/2023/04/22/beginner-guide/)

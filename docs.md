@@ -1,3 +1,12 @@
+---
+layout: page
+title: Documentation
+menubar: docs_menu
+show_sidebar: false
+toc: true
+hero_height: is-small
+---
+
 This documentation is the main source of documentation for users working with [Spider Suite](https://SpiderSuite.github.io).
 
 ## Getting Started
