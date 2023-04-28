@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Support SpiderSuite's Development
+title: Sponsor
+subtitle: Individuals and Organizations supporting development of SpiderSuite
 sponsors: sponsors
 show_sidebar: false
-hero_height: is-small
+hero_image: /img/hero3.png
+hero_height: is-medium
+hero_darken: true
+image: /img/hero3.png
 ---
 
 # Become a supporter of SpiderSuite

@@ -2,10 +2,10 @@
 title: Download SpiderSuite.
 layout: page
 show_sidebar: false
-hero_image: /img/hero3.png
+hero_image: /img/hero2.png
 hero_height: is-medium
 hero_darken: true
-image: /img/hero3.png
+image: /img/hero2.png
 ---
 
 You can also download from SpiderSuite's Github repository [release page](https://3nock.github.io/SpiderSuite/releases).
