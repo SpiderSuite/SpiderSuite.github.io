@@ -50,8 +50,7 @@
         - name: Graph
           link: /docs/Crawling#graph
 
-- name: Tools
-  link: /docs/Tools
+- label: Tools
   items:
   - name: Passive Crawler Tool
     link: /docs/Tools#passive-crawler-tool

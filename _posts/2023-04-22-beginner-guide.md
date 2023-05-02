@@ -8,7 +8,7 @@ published: true
 hero_height: is-small
 ---
 
-This guide is intended to serve as a basic introduction for using SpiderSuite to perform target site `crawling`, and `Bruteforcing`. This guide is especially useful if you are new to crawling with SpiderSuite. On that note, this document is not intended to be a comprehensive guide for using SpiderSuite.
+This guide is intended to serve as a basic introduction for using SpiderSuite to perform target site **crawling**, and **Bruteforcing**. This guide is especially useful if you are new to crawling with SpiderSuite. On that note, this document is not intended to be a comprehensive guide for using SpiderSuite.
 
 ## Target
 

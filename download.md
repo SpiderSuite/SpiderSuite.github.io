@@ -13,13 +13,11 @@ You can also download from SpiderSuite's Github repository [release page](https:
 <div class="box">
     <p class="title is-4">Download SpiderSuite v1.0.0</p>
     <div class="content">
-    <p>
-    <li> <a href="">Windows x64 installer</a>
-    <li> <a href="">Windows x64 portable (.zip)</a>
-    <li> <a href="">Linux x64 installer (.run)</a>
-    <li> <a href="">Linux x64 portable (.AppImage)</a>
-    <li> <a href="">Linux x64 portable (.tar.gz)</a>
-    <li> <a href="">PDF user guide</a>
-    </p>
+    <li> <a href="">Windows x64 installer</a></li>
+    <li> <a href="">Windows x64 portable (.zip)</a></li>
+    <li> <a href="">Linux x64 installer (.run)</a></li>
+    <li> <a href="">Linux x64 portable (.AppImage)</a></li>
+    <li> <a href="">Linux x64 portable (.tar.gz)</a></li>
+    <li> <a href="">PDF user guide</a></li>
     </div>
 </div>
