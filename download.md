@@ -8,7 +8,7 @@ hero_darken: true
 image: /img/hero2.png
 ---
 
-You can also download from SpiderSuite's Github repository [release page](https://3nock.github.io/SpiderSuite/releases).
+You can also download from SpiderSuite's Github repository [release page](https://github.com/3nock/SpiderSuite/releases).
 
 ## Download SpiderSuite v1.0.0 
 

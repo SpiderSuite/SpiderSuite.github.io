@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsor
-subtitle: Individuals and Organizations supporting development of SpiderSuite
+subtitle: Individuals and Organizations supporting the development of SpiderSuite
 sponsors: sponsors
 show_sidebar: false
 hero_image: /img/hero3.png
