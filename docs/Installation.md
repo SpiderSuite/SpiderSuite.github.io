@@ -59,14 +59,14 @@ Extract the archive on desired location (you can use GUI option or command line:
 ```bash
 tar –xzf SpiderSuite_vX.X.X_linux.tar.gz
 ```
-Then run it simply by double clicking on the `SpiderSuite/AppRun.Wrapper` 
+Then run it simply by double clicking on the `SpiderSuite/SpiderSuite` 
 
 or 
 
 using command line with the command 
 
 ```bash
-./SpiderSuite/AppRun.Wrapper
+./SpiderSuite/SpiderSuite
 ```
 
 * **For Windows Installer:**

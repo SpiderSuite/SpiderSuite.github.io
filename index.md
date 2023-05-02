@@ -2,7 +2,6 @@
 title: SpiderSuite
 subtitle: An advance web crawler/spider for cyber security professionals
 layout: page
-callouts: home_callouts
 show_sidebar: true
 hero_image: /img/hero0.png
 hero_height: is-medium
@@ -20,8 +19,7 @@ image: /img/hero0.png
     </p>
     <center><img src="/img/preview.gif"></center>
     <p>
-    Spider Suite is a cross platform and on-premise tool currently supporting `Windows` and `Linux` operating systems. Writen in c++ using the Qt framework, Spider Suite is fast and highly intuitive with a simple-design user interface.
-    With ease of installation and usage, you simply download and execute (use).
+    Spider Suite is a cross platform and on-premise tool currently supporting <b>Windows</b> and <b>Linux</b> operating systems. Writen in c++ using the Qt framework, Spider Suite is fast and highly intuitive with a simple-design user interface.With ease of installation and usage, you simply download and execute (use).
     </p>
     </div>
 </div>
@@ -31,11 +29,11 @@ image: /img/hero0.png
     <div class="content">
     <p>
     Spider Suite offers advance and competitive capabilities not available on other solutions of the same domain.
-    - You can crawl an entire target site with just a simple click.
-    - You can easily analyze contents extracted from crawled pages.
-    - You can visualize the entire crawled surface on an interactive graph.
-    - You can import and visualize content extracted from other tools such as [Burp Suite](https://portswigger.net/burp), [OWASP ZAP](https://www.zaproxy.org/), [Fiddler](https://www.telerik.com/fiddler), [Katana](https://github.com/projectdiscovery/katana), [Caido](https://caido.io/) and many more.
-    - You can easily save a crawl session on database to be used later on.
+    <li> You can crawl an entire target site with just a simple click.</li>
+    <li> You can easily analyze contents extracted from crawled pages.</li>
+    <li> You can visualize the entire crawled surface on an interactive graph.</li>
+    <li> You can import and visualize content extracted from other tools such as <a href="https://portswigger.net/burp">Burp Suite</a>, <a href="https://www.zaproxy.org/">OWASP ZAP</a>, <a href="https://www.telerik.com/fiddler">Fiddler</a>, <a href="https://github.com/projectdiscovery/katana">Katana</a>, <a href="https://caido.io/">Caido</a> and many more.</li>
+    <li> You can easily save a crawl session on database to be used later on.</li>
     </p>
     </div>
 </div>
@@ -45,9 +43,9 @@ image: /img/hero0.png
     <div class="content">
     <p>
     Spider Suite can be used at various stages when performing security research on a target.
-    - Use Spider Suite to map the entire attack surface of the target.
-    - Use Spider Suite to analyze individual pages within the attack surface.
-    - Use Spider Suite to visualize attack surfaces produced by other tools.
+    <li> Use Spider Suite to map the entire attack surface of the target.</li>
+    <li> Use Spider Suite to analyze individual pages within the attack surface.</li>
+    <li> Use Spider Suite to visualize attack surfaces produced by other tools.</li>
     </p>
     </div>
 </div>
@@ -57,43 +55,8 @@ image: /img/hero0.png
     <div class="content">
     <p>
     You as an individual or organization with passion for development of cyber security solutions can have a hand in supporting the development of Spider Suite software.
-    - Have a skill? Checkout how you can [contribute](https://github.com/3nock/SpiderSuite/blob/main/CONTRIBUTING.md) to the development of Spider Suite.
-    - Want to support Spider Suite financially?  Consider [sponsoring](/sponsor/) the project.
+    <li> Have a skill? Checkout how you can <a href="https://github.com/3nock/SpiderSuite/blob/main/CONTRIBUTING.md">contribute</a> to the development of Spider Suite.</li>
+    <li> Want to support Spider Suite financially?  Consider <a href="/sponsor/">sponsoring</a> the project.</li>
     </p>
     </div>
 </div>
-
-## What is Spider Suite?
-
-Spider Suite is an advance multi-feature GUI web Crawler/Spider specially designed for cyber security professionals.
-
-<center><img src="/img/preview.gif"></center>
-
-Spider Suite is a cross platform and on-premise tool currently supporting `Windows` and `Linux` operating systems. Writen in c++ using the Qt framework, Spider Suite is fast and highly intuitive with a simple-design user interface.
-
-With ease of installation and usage, you simply download and execute (use).
-
-## Why use Spider Suite?
-
-Spider Suite offers advance and competitive capabilities not available on other solutions of the same domain.
-- You can crawl an entire target site with just a simple click.
-- You can easily analyze contents extracted from crawled pages.
-- You can visualize the entire crawled surface on an interactive graph.
-- You can import and visualize content extracted from other tools such as [Burp Suite](https://portswigger.net/burp), [OWASP ZAP](https://www.zaproxy.org/), [Fiddler](https://www.telerik.com/fiddler), [Katana](https://github.com/projectdiscovery/katana), [Caido](https://caido.io/) and many more.
-- You can easily save a crawl session on database to be used later on.
-
-## When to use Spider Suite?
-
-Spider Suite can be used at various stages when performing security research on a target.
-
-- Use Spider Suite to map the entire attack surface of the target.
-- Use Spider Suite to analyze individual pages within the attack surface.
-- Use Spider Suite to visualize attack surfaces produced by other tools.
-
-## How to support development of Spider Suite?
-
-You as an individual or organization with passion for development of cyber security solutions can have a hand in supporting the development of Spider Suite software.
-
-- Have a skill? Checkout how you can [contribute](https://github.com/3nock/SpiderSuite/blob/main/CONTRIBUTING.md) to the development of Spider Suite.
-
-- Want to support Spider Suite financially?  Consider [sponsoring](/sponsor/) the project.
