@@ -13,11 +13,11 @@ You can also download from SpiderSuite's Github repository [release page](https:
 <div class="box">
     <p class="title is-4">Download SpiderSuite v1.0.0</p>
     <div class="content">
-    <li> <a href="">Windows x64 installer</a></li>
-    <li> <a href="">Windows x64 portable (.zip)</a></li>
-    <li> <a href="">Linux x64 installer (.run)</a></li>
-    <li> <a href="">Linux x64 portable (.AppImage)</a></li>
-    <li> <a href="">Linux x64 portable (.tar.gz)</a></li>
-    <li> <a href="">PDF user guide</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.0/SpiderSuite_v1.0.0_win64_installer.exe">Windows x64 installer</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.0/SpiderSuite_v1.0.0_win64.zip">Windows x64 portable (.zip)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.0/SpiderSuite_v1.0.0_linux_installer.run">Linux x64 installer (.run)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.0/SpiderSuite_v1.0.0_linux.AppImage">Linux x64 portable (.AppImage)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.0/SpiderSuite_v1.0.0_linux.tar.gz">Linux x64 portable (.tar.gz)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.0/SpiderSuite_v1.0.0_UserGuide.pdf">PDF user guide</a></li>
     </div>
 </div>

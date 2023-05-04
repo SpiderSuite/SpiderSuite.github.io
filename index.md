@@ -1,6 +1,6 @@
 ---
 title: SpiderSuite
-subtitle: An advance web crawler/spider for cyber security professionals
+subtitle: Advance web crawler/spider for cyber security professionals
 layout: page
 show_sidebar: true
 hero_image: /img/hero0.png
