@@ -199,6 +199,19 @@ Connection, SSL and other system errors will not be added to sitemap only error 
 
 Configures which files types are allowed to be crawled. HTML files are crawled by default, but for other file types you must allow (by checking the particular checkbox) for them to be crawled. If not allowed the file type will not be added to the spider seed.
 
+* **Allow POST and PUT requests**
+
+Configures the crawler to allow sending POST and PUT requests when crawling. Since
+POST and PUT request may have an effect on the target it is not allowed by default.
+
+* **Filter out recurring parameters**
+Configures the crawler to remove repeating parameters even those with different
+values. This configuration prevents crawling of the same pages with just different
+parameter values.
+
+Although it might be helpful most of the time, sometimes the parameter values might be
+essential.
+
 * **File types to Crawl:**
 
 Configures which files types are allowed to be crawled. HTML files are crawled by default, but for other file types you must allow (by checking the particular checkbox) for them to be crawled. If not allowed the file type will not be added to the spider seed.
