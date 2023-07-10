@@ -1,13 +1,27 @@
-- name: Product
+- name: Products
   link: /#
   dropdown:
-    - name: Download
-      link: /download/
-    - name: Sponsor
-      link: /sponsor/
-    - name: Gallery
-      link: /gallery/
-- name: Documentation
-  link: /docs/
+    - name: SpiderSuite
+      link: /SSuite/
+    - name: OSINT Template Engine
+      link: /OTE/
+- name: Docs
+  link: /#
+  dropdown:
+    -  name: SpiderSuite
+    -  link: /docs/
+    -  name: OSINT Template Engine
+    -  link: /docs/
+- name: Download
+  link: /#
+  dropdown:
+    -  name: SpiderSuite
+    -  link: /download/
+    -  name: OSINT Template Engine
+    -  link: /download/
+- name: Gallery
+  link: /gallery/
 - name: Blog
   link: /blog/
+- name: Sponsor
+  link: /sponsor/

@@ -1,5 +1,5 @@
 ---
-subtitle: Developing research-grade cyber security solutions
+title: Developing research-grade cyber security solutions
 layout: page
 callouts: home_callouts
 show_sidebar: false

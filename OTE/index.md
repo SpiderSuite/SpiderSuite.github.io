@@ -2,7 +2,7 @@
 title: OSINT Template Engine
 subtitle: Next Generation OSINT information gathering tool using templates
 layout: page
-show_sidebar: false
+show_sidebar: trye
 hero_image: /img/hero4.png
 hero_height: is-medium
 hero_darken: true
@@ -30,9 +30,14 @@ image: /img/hero0.png
     <p class="title is-4">Why use OSINT Template Engine?</p>
     <div class="content">
     <p>
-    OSINT Template Engine attempts to fix the major flaw with currently available OSINT gathering solutions which is <b><i>the rapidly changing of OSINT sources API Endpoint</i></b>. Many OSINT gathering tools rely and depend on data offered by OSINT sources such as; <a href="https://www.shodan.io/">shodan</a>, <a href="https://archive.org/web/"> waybackmachine</a> and <a href="https://stat.ripe.net/">ripe</a> through their API Endpoints, but these OSINT Sources rapidly evolve their API Endpoints for offering OSINT data which leaves the OSINT tools which use hardcoded API Endpoint links with dead links in-need of constant updating, re-packaging and release which is not ideal.
+    OSINT Template Engine attempts to fix the major flaw with currently available OSINT gathering solutions which is <b><i>the rapidly changing of OSINT sources API Endpoint</i></b>. 
+    <br>
+    Many OSINT gathering tools rely and depend on data offered by OSINT sources such as; <a href="https://www.shodan.io/">shodan</a>, <a href="https://archive.org/web/"> waybackmachine</a> and <a href="https://stat.ripe.net/">ripe</a> through their API Endpoints, but these OSINT Sources rapidly evolve their API Endpoints for offering OSINT data which leaves the OSINT tools which use hardcoded API Endpoint links with dead links in-need of constant updating, re-packaging and release which is not ideal.
+    <br>
     OSINT Template Engine solves this problem by the use of customizable templates which can be manually modified easily incase of change, update or failure.
+    <br>
     OSINT Template Engine offers advance and competitive capabilities not available on other solutions of the same domain.
+    <br>
     <li> OSINT Template Engine puts all the available OSINT data sources and all their available API Endpoints in one tool and at you your disposal for use to your liking.</li>
     <li> OSINT Template Engine gives all the control for how and what information to collect and save to the user.</li>
     <li> If you are a company providing OSINT data through your own API Endpoint, you can easily create your template in matter of minutes and share it with the community.</li>
