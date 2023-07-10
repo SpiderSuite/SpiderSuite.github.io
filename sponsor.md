@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsor
-subtitle: Individuals and Organizations supporting the development of SpiderSuite
+subtitle: Individuals and Organizations supporting the development of SpiderSuite and OSINT Template Engine
 sponsors: sponsors
 show_sidebar: false
 hero_image: /img/hero3.png
@@ -10,12 +10,12 @@ hero_darken: true
 image: /img/hero3.png
 ---
 
-# Become a supporter of SpiderSuite
+# Become a supporter of SpiderSuite and OSINT Template Engine
 
-Your donations support the development & advancement of **Spider Suite**. 
-Any amount is acceptable and will help attain the goal of making **Spider Suite** the de-facto tool for web security crawling.
+Your donations support the development & advancement of **Spider Suite** and **OSINT Template Engine**. 
+Any amount is acceptable and will help attain the goal of making **Spider Suite** the de-facto tool for web security crawling and **OSINT Template Engine** the de-facto tool for intelligence gathering.
 
-_**Want to become a main supporter or partner with SpiderSuite?**_ Feel free to [contact us](/contacts/).
+_**Want to become a main supporter or partner?**_ Feel free to [contact us](/contacts/).
 
 ## Support via Bitcoin
 

@@ -1,18 +1,18 @@
 style: is-light
 height: is-medium
 items:
-  - title: Github
+  - title: SpiderSuite
     description: >
-      You can closely follow Spider Suite's development on it's Github repository.
+      An advance Web security crawler for cyber security professionals
 
-      It contains all the up to date documentation (wiki), all the binary releases for download and sooner the entire source code.
-    call_to_action_name: Visit Repository
-    call_to_action_link: https://github.com/3nock/SpiderSuite
+      See all information about SpiderSuite features.
+    call_to_action_name: See SpiderSuite
+    call_to_action_link: https://spidersuite.github.io/SSuite
 
-  - title: Twitter
+  - title: OSINT Template Engine
     description: >
-      You can closely follow Spider Suite's development on twitter.
+      A research-grade tool for gathering OSINT information using customizable templates
 
-      Daily posting about issues related to SpiderSuite and security crawling in general
-    call_to_action_name: Follow
-    call_to_action_link: https://twitter.com/spider_suite
+      See all information about SpiderSuite features.
+    call_to_action_name: See OSINT Template Engine
+    call_to_action_link: https://spidersuite.github.io/OTE
