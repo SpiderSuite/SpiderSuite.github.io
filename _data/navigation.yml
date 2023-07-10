@@ -8,17 +8,17 @@
 - name: Docs
   link: /#
   dropdown:
-    -  name: SpiderSuite
-    -  link: /docs/
-    -  name: OSINT Template Engine
-    -  link: /docs/
+    -  name: SpiderSuite documentation
+    -  link: /SSuite/docs/
+    -  name: OSINT Template Engine documentation
+    -  link: /OTE/docs/
 - name: Download
   link: /#
   dropdown:
-    -  name: SpiderSuite
-    -  link: /download/
-    -  name: OSINT Template Engine
-    -  link: /download/
+    -  name: Downlod SpiderSuite
+    -  link: /SSuite/download/
+    -  name: Download OSINT Template Engine
+    -  link: /OTE/download/
 - name: Gallery
   link: /gallery/
 - name: Blog

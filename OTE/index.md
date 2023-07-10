@@ -34,9 +34,12 @@ image: /img/hero0.png
     <br>
     Many OSINT gathering tools rely and depend on data offered by OSINT sources such as; <a href="https://www.shodan.io/">shodan</a>, <a href="https://archive.org/web/"> waybackmachine</a> and <a href="https://stat.ripe.net/">ripe</a> through their API Endpoints, but these OSINT Sources rapidly evolve their API Endpoints for offering OSINT data which leaves the OSINT tools which use hardcoded API Endpoint links with dead links in-need of constant updating, re-packaging and release which is not ideal.
     <br>
+    <br>
     OSINT Template Engine solves this problem by the use of customizable templates which can be manually modified easily incase of change, update or failure.
     <br>
+    <br>
     OSINT Template Engine offers advance and competitive capabilities not available on other solutions of the same domain.
+    <br>
     <br>
     <li> OSINT Template Engine puts all the available OSINT data sources and all their available API Endpoints in one tool and at you your disposal for use to your liking.</li>
     <li> OSINT Template Engine gives all the control for how and what information to collect and save to the user.</li>
