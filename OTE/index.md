@@ -2,7 +2,7 @@
 title: OSINT Template Engine
 subtitle: Next Generation OSINT information gathering tool using templates
 layout: page
-show_sidebar: true
+show_sidebar: false
 hero_image: /img/hero4.png
 hero_height: is-medium
 hero_darken: true
