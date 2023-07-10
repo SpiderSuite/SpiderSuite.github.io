@@ -4,7 +4,7 @@ items:
   - title: SpiderSuite
     icon: /img/ssuite_logo.png
     description: >
-      An advance Web security crawler for cyber security professionals
+      An advance web security crawler for cyber security professionals
     call_to_action_name: See SpiderSuite
     call_to_action_link: https://spidersuite.github.io/SSuite
 
