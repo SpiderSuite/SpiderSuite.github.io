@@ -1,3 +1,12 @@
+---
+layout: page
+title: Handling API Keys
+menubar: ote_docs_menu
+show_sidebar: false
+toc: false
+hero_height: is-small
+---
+
 # Template's API Keys
 
 Some template require API keys to query and obtain results.
@@ -12,4 +21,4 @@ Simply;
 - After obtaining the API key, input the API key on the line-edit and save.
 - Now you can use the template.
 
-<center><img src="/ssuite/docs/res/obtain_apike.gif"></center>
+<center><img src="/OTE/docs/res/obtain_apike.gif"></center>

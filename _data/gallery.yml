@@ -1,3 +1,15 @@
+- title: OSINT Template Engine
+  images:
+    - link: /img/gallery/ote1.png
+      alt: welcome view
+      description: Welcome View
+    - link: /img/gallery/ote2.png
+      alt: explorer view
+      description: Explorer View
+    - link: /img/gallery/ote3.png
+      alt: extractor
+      description: Extractor View
+
 - title: Spider Suite's Sitemap View
   images:
     - link: /img/gallery/sitemap1.png

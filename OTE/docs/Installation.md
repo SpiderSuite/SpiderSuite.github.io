@@ -1,3 +1,12 @@
+---
+layout: page
+title: Installation
+menubar: ote_docs_menu
+show_sidebar: false
+toc: false
+hero_height: is-small
+---
+
 Installing OSINT Template Engine involves a series of simple steps which must be completed in the correct
 sequence for the installation to be successful.
 

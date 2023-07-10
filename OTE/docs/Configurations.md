@@ -1,10 +1,19 @@
+---
+layout: page
+title: Configurations
+menubar: ote_docs_menu
+show_sidebar: false
+toc: false
+hero_height: is-small
+---
+
 OSINT Template Engine's configurations are stored in json format in a ote.conf configuration file that is located in the installation folder of OTE.
 
 You can easily modify the configuration values and save for the changes to take place. You can also easily reset the configurations to default values that come with OTE, any changes saved or reset will also reset the ote.conf file.
 
 ## Engine Configurations
 
-<center><img src="/ssuite/docs/res/engineconfig.png"></center>
+<center><img src="/OTE/docs/res/engineconfig.png"></center>
 
 * **Timeout:**
 
@@ -32,7 +41,7 @@ Sets the `Accept` header for the network request to specify the content type tha
 
 ## General configurations
 
-<center><img src="/ssuite/docs/res/generalconfig.png"></center>
+<center><img src="/OTE/docs/res/generalconfig.png"></center>
 
 * **Theme**
 

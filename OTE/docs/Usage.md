@@ -1,3 +1,12 @@
+---
+layout: page
+title: Usage
+menubar: ote_docs_menu
+show_sidebar: false
+toc: false
+hero_height: is-small
+---
+
 # Using OTE for information gathering
 
 You can use OSINT Template Engine to gather information about targets in two ways; using the [explorer](#explorer) window or using the [extractor](#extractor).
@@ -6,7 +15,7 @@ You can use OSINT Template Engine to gather information about targets in two way
 
 OSINT Template Engine explorer is used explore different API Endpoints offered by the available templates. When you query an endpoint, it returns the entire response on the sitemap window which you can use to analyze the result.
 
-<center><img src="/ssuite/docs/res/explorer_in_action.gif"></center>
+<center><img src="/OTE/docs/res/explorer_in_action.gif"></center>
 
 ### Features
 
@@ -27,13 +36,13 @@ OSINT Template Engine explorer is used explore different API Endpoints offered b
 
 - OSINT Template Engine explorer allows you to modify the templates and API endpoints for efficient custom queries.
 
-<center><img src="/ssuite/docs/res/explorer_modify.gif"></center>
+<center><img src="/OTE/docs/res/explorer_modify.gif"></center>
 
 ## Extractor
 
 OSINT Template Engine extractor is used to extract and save key information from API Endpoint results offered by the available templates. It only returns the relevant key information from the result e.g. sudomains, ip and asn.
 
-<center><img src="/ssuite/docs/res/extractor_in_action.gif"></center>
+<center><img src="/OTE/docs/res/extractor_in_action.gif"></center>
 
 ### Features
 
@@ -55,4 +64,4 @@ OSINT Template Engine extractor is used to extract and save key information from
 
 - OSINT Template Engine extractor allows you to modify the templates, API endpoints and extractors for efficient queries.
 
-<center><img src="/ssuite/docs/res/explorer_modify.gif"></center>
+<center><img src="/OTE/docs/res/explorer_modify.gif"></center>

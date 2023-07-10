@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Interface
-menubar: docs_menu
+menubar: ssuite_docs_menu
 show_sidebar: false
 toc: false
 hero_height: is-small

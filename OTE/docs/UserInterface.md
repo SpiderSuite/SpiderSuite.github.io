@@ -1,3 +1,12 @@
+---
+layout: page
+title: User Interface
+menubar: ote_docs_menu
+show_sidebar: false
+toc: false
+hero_height: is-small
+---
+
 # **Main Window**
 OTE’s Main window contains the following information.
 
@@ -54,10 +63,10 @@ Contains actions that can be performed on the application and the project.
 
 For querying individual API endpoints of available templates.
 
-<center><img src="/ssuite/docs/res/explorerview.png"/></center>
+<center><img src="/OTE/docs/res/explorerview.png"/></center>
 
 ## **Extractor View**
 
 For extracting specific data types from template api endpoint results.
 
-<center><img src="/ssuite/docs/res/extractorview.png"/></center>
+<center><img src="/OTE/docs/res/extractorview.png"/></center>
