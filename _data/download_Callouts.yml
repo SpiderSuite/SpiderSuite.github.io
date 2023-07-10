@@ -1,0 +1,20 @@
+style: is-light
+height: is-medium
+items:
+  - title: SpiderSuite
+    icon: /img/ssuite_logo.png
+    description: >
+      SpiderSuite
+
+      An advance web security crawler for cyber security professionals
+    call_to_action_name: Download SpiderSuite
+    call_to_action_link: https://spidersuite.github.io/SSuite
+
+  - title: OSINT Template Engine
+    icon: /img/ote_logo.png
+    description: >
+      OSINT Template Engine
+
+      An open source, research-grade tool for gathering OSINT information using customizable templates
+    call_to_action_name: Download OSINT Template Engine
+    call_to_action_link: https://spidersuite.github.io/OTE

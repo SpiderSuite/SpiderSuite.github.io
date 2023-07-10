@@ -9,7 +9,7 @@ hero_darken: true
 image: /img/hero1.png
 ---
 
-Contact Information for Spider Suite. *Feel free to contact us for any inquiries.*
+Contact Information for SpiderSuite. *Feel free to contact us for any inquiries.*
 
 ## Emails
 - [spid3rsuite@gmail.com](mailto:spid3rsuite@gmail.com)

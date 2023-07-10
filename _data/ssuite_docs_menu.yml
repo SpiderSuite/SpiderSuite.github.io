@@ -1,69 +1,69 @@
 - label: Getting Started
   items:
     - name: Start
-      link: /docs/
+      link: /ssuite/docs/
     - name: Overview
-      link: /docs/Overview
+      link: /ssuite/docs/Overview
     - name: Installation
-      link: /docs/Installation
+      link: /ssuite/docs/Installation
     - name: User Interface
-      link: /docs/UserInterface
+      link: /ssuite/docs/UserInterface
 
 - label: Spider / Crawler
   items:
   - name: Configurations
-    link: /docs/Configurations
+    link: /ssuite/docs/Configurations
     items:
         - name: Limits
-          link: /docs/Configurations#limits-configuration
+          link: /ssuite/docs/Configurations#limits-configuration
         - name: Crawler
-          link: /docs/Configurations#crawler-configuration
+          link: /ssuite/docs/Configurations#crawler-configuration
         - name: Headers
-          link: /docs/Configurations#headers-configuration
+          link: /ssuite/docs/Configurations#headers-configuration
         - name: Input Fields
-          link: /docs/Configurations#input-fields-configuration
+          link: /ssuite/docs/Configurations#input-fields-configuration
         - name: Exclusion
-          link: /docs/Configurations#exclusion-configuration
+          link: /ssuite/docs/Configurations#exclusion-configuration
         - name: Authentication
-          link: /docs/configurations#authentication-configuration
+          link: /ssuite/docs/configurations#authentication-configuration
         - name: Proxy
-          link: /docs/Configurations#proxy-configuration
+          link: /ssuite/docs/Configurations#proxy-configuration
         - name: Graph
-          link: /docs/Configurations#graph-configuration
+          link: /ssuite/docs/Configurations#graph-configuration
         - name: Export
-          link: /docs/Configurations#configure-exports
+          link: /ssuite/docs/Configurations#configure-exports
         - name: Passive Crawler
-          link: /docs/Configurations#passive-crawler-configuration
+          link: /ssuite/docs/Configurations#passive-crawler-configuration
         - name: Misc
-          link: /docs/Configurations#misc-configuration
+          link: /ssuite/docs/Configurations#misc-configuration
   - name: Crawling
-    link: /docs/Crawling
+    link: /ssuite/docs/Crawling
     items:
         - name: Crawler Configuration
-          link: /docs/Crawling#configure-the-crawler
+          link: /ssuite/docs/Crawling#configure-the-crawler
         - name: Crawling From Single Link
-          link: /docs/Crawling#crawling-from-a-single-link
+          link: /ssuite/docs/Crawling#crawling-from-a-single-link
         - name: Advance Crawling
-          link: /docs/Crawling#advance-crawling
+          link: /ssuite/docs/Crawling#advance-crawling
         - name: Sitemap
-          link: /docs/Crawling#sitemap
+          link: /ssuite/docs/Crawling#sitemap
         - name: Graph
-          link: /docs/Crawling#graph
+          link: /ssuite/docs/Crawling#graph
 
 - label: Tools
   items:
   - name: Passive Crawler Tool
-    link: /docs/Tools#passive-crawler-tool
+    link: /ssuite/docs/Tools#passive-crawler-tool
   - name: SSL Certificates Tool
-    link: /docs/Tools#ssl-certificates-tool
+    link: /ssuite/docs/Tools#ssl-certificates-tool
   - name: Decoder Tool
-    link: /docs/Tools#decoder-tool
+    link: /ssuite/docs/Tools#decoder-tool
   - name: Compare Tool
-    link: /docs/Tools#compare-tool
+    link: /ssuite/docs/Tools#compare-tool
   - name: Search Tool
-    link: /docs/Tools#search-tool
+    link: /ssuite/docs/Tools#search-tool
 
 - label: Resources
   items:
   - name: Articles
-    link: /docs/Articles
+    link: /ssuite/docs/Articles

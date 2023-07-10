@@ -1,0 +1,24 @@
+- label: Getting Started
+  items:
+    - name: Start
+      link: /OTE/docs/
+    - name: Overview
+      link: /OTE/docs/Overview
+    - name: Installation
+      link: /OTE/docs/Installation
+    - name: User Interface
+      link: /OTE/docs/UserInterface
+
+- label: Configurations & Usage
+  items:
+  - name: Configuration
+    link: /OTE/docs/Configurations
+  - name: Handling API Keys
+    link: /OTE/docs/APIKeys
+  - name: Usage
+    link: /OTE/docs/Usage
+
+- label: Resources
+  items:
+  - name: Articles
+    link: /OTE/docs/Articles

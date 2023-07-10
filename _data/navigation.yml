@@ -6,14 +6,12 @@
     - name: OSINT Template Engine
       link: /OTE/
 - name: Docs
-  link: /#
   dropdown:
     -  name: SpiderSuite documentation
     -  link: /SSuite/docs/
     -  name: OSINT Template Engine documentation
     -  link: /OTE/docs/
 - name: Download
-  link: /#
   dropdown:
     -  name: Downlod SpiderSuite
     -  link: /SSuite/download/
