@@ -1,0 +1,16 @@
+style: is-dark
+height: is-medium
+items:
+  - title: OTE
+    icon: /img/github.png
+    description: >
+      OSINT Template Engine repository. An open source repository containing the engine's source code.
+    call_to_action_name: Visit Repository
+    call_to_action_link: https://github.com/3nock/OTE
+
+  - title: OTE-Templates
+    icon: /img/github.png
+    description: >
+      OSINT Template Engine's Templates repository. An open source repository containing all the available templates.
+    call_to_action_name: Visit Repository
+    call_to_action_link: https://github.com/3nock/OTE-Templates
