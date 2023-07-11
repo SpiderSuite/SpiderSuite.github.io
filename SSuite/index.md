@@ -21,7 +21,7 @@ image: /img/hero0.png
     <p>
     Spider Suite is a cross platform and an on-premise tool currently supporting <b>Windows</b> and <b>Linux</b> operating systems.<br> <br>
     Writen in c++ using the Qt framework, Spider Suite is fast and highly intuitive with a simple-design user interface.<br><br>
-    With ease of installation and usage, you simply <a href="/download/">download</a> and execute (use).
+    With ease of installation and usage, you simply <a href="/SSuite/download/">download</a> and execute <a href="https://github.com/3nock/SpiderSuite/wiki">use</a>.
     </p>
     </div>
 </div>

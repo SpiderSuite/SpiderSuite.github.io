@@ -64,4 +64,12 @@ OSINT Template Engine extractor is used to extract and save key information from
 
 - OSINT Template Engine extractor allows you to modify the templates, API endpoints and extractors for efficient queries.
 
-<center><img src="/OTE/docs/res/explorer_modify.gif"></center>
+<center><img src="/OTE/docs/res/extractor_modify_template.gif"></center>
+
+- OSINT Template Engine extractor allows you to modify the API endpoints of a template.
+
+<center><img src="/OTE/docs/res/extractor_modify_endpoint.gif"></center>
+
+- OSINT Template Engine extractor allows you to modify the extractors of an API Endpoint of a template.
+
+<center><img src="/OTE/docs/res/extractor_modify_extractor.gif"></center>

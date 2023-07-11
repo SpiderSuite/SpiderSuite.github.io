@@ -15,13 +15,14 @@ image: /img/hero0.png
     <p class="title is-4">What is OSINT Template Engine?</p>
     <div class="content">
     <p>
-    OSINT Template Engine next generation OSINT information gathering tool using customizable templates
+    OSINT Template Engine is a next generation OSINT information gathering tool using customizable templates
     </p>
-    <center><img src="/img/ote_preview.gif"></center>
+    <center><img src="/img/ote_explorer.gif"></center>
+    <center><img src="/img/ote_extractor.gif"></center>
     <p>
-    OSINT Template Engine is a cross platform and an on-premise tool currently supporting <b>Windows</b> and <b>Linux</b> operating systems.<br> <br>
+    OSINT Template Engine is an open source & cross platform tool currently supporting <b>Windows</b> and <b>Linux</b> operating systems.<br> <br>
     Writen in c++ using the Qt framework, OSINT Template Engine is fast and highly intuitive with a simple-design user interface.<br><br>
-    With ease of installation and usage, you simply <a href="/download/">download</a> and execute (use).
+    With ease of installation and usage, you simply <a href="/download/">download</a> and execute <a href="https://github.com/3nock/OTE/wiki">use</a>.
     </p>
     </div>
 </div>
@@ -43,10 +44,9 @@ image: /img/hero0.png
     <br>
     <li> OSINT Template Engine puts all the available OSINT data sources and all their available API Endpoints in one tool and at you your disposal for use to your liking.</li>
     <li> OSINT Template Engine gives all the control for how and what information to collect and save to the user.</li>
-    <li> If you are a company providing OSINT data through your own API Endpoint, you can easily create your template in matter of minutes and share it with the community.</li>
+    <li> If you are a company providing OSINT data through your own API Endpoint, you can easily <a href="https://github.com/3nock/OTE-Templates/blob/main/CREATE_TEMPLATE.md">create</a> your template in matter of minutes and share it with the community.</li>
     <li> You can gether information from various sources about the particular target.</li>
-    <li> You can create your own templates to gather information from different sources.</li>
-    <li> You can easily modify existing templates to suite your need.</li>
+    <li> You can <a href="https://github.com/3nock/OTE-Templates/blob/main/CREATE_TEMPLATE.md">create</a> your own templates to gather information from different sources and easily <a href="https://github.com/3nock/OTE-Templates/blob/main/MODIFY_TEMPLATE.md">modify</a> existing templates to suite your need.</li>
     <li> There is almost no limit to the target types you want to gather information for or the type of information you wish to gather. You are only limited by currently available templates</li>
     </p>
     </div>

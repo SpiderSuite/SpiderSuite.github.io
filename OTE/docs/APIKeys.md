@@ -21,4 +21,4 @@ Simply;
 - After obtaining the API key, input the API key on the line-edit and save.
 - Now you can use the template.
 
-<center><img src="/OTE/docs/res/obtain_apike.gif"></center>
+<center><img src="/OTE/docs/res/obtain_apikey.gif"></center>
