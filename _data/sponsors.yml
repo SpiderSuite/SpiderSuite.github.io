@@ -2,6 +2,9 @@
   size: large
   description: |-
     Individuals and Organizations donating more than 500$
+  sponsors:
+    - name: Websec
+      profile: https://websec.nl/
 - tier_name: Gold Supporters
   description: |-
     Individuals and Organizations donating more than from 100$ to 499$
