@@ -14,6 +14,8 @@
   - name: Configurations
     link: /SSuite/docs/Configurations
     items:
+        - name: General
+          link: /SSuite/docs/Configurations#general-configuration
         - name: Limits
           link: /SSuite/docs/Configurations#limits-configuration
         - name: Crawler
@@ -34,8 +36,6 @@
           link: /SSuite/docs/Configurations#configure-exports
         - name: Passive Crawler
           link: /SSuite/docs/Configurations#passive-crawler-configuration
-        - name: Misc
-          link: /SSuite/docs/Configurations#misc-configuration
   - name: Crawling
     link: /SSuite/docs/Crawling
     items:

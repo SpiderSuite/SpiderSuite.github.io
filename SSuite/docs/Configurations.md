@@ -11,6 +11,29 @@ SpiderSuite Configurations are stored in json format in a SpiderSuite.conf confi
 
 You can easily modify the configuration values and save for the changes to take place. You can also easily reset the configurations to default values that come with SpiderSuite, any changes saved or reset will also reset the SpiderSuite.conf file.
 
+## **General Configuration**
+
+<img src="/ssuite/docs/res/config_general.png"/>
+
+General Apllication's configurations
+
+* **Font**
+Configures the Spider Suite’s entire application font type, size and style, simply change
+the application’s font by using the font dialog.
+
+The changes will take effect after restarting SpiderSuite.
+
+* **Theme**
+Configures the Spider Suite’s theme for the entire application and for the text editors.
+
+The themes will be applied when you restart the application.
+
+* **Disable automatic update check**
+
+Disables the automatic check for any available updates for the application which is done when the application is launched (started).
+
+You can still check for updates manually by clicking on the `check for updates` action on the menu bar.
+
 ## **Limits Configuration:**
 Configures the Crawler’s limitations.
 <center><img src="/ssuite/docs/res/config_limits.png"/></center>
