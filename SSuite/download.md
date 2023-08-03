@@ -11,6 +11,24 @@ image: /img/hero2.png
 You can also download from SpiderSuite's Github repository [release page](https://github.com/3nock/SpiderSuite/releases).
 
 <div class="box">
+    <p class="title is-4">Download SpiderSuite v1.0.3</p>
+    <div class="content">
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.3/SpiderSuite_v1.0.3_win64_installer.exe">Windows x64 installer</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.3/SpiderSuite_v1.0.3_win64.zip">Windows x64 portable (.zip)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.3/SpiderSuite_v1.0.3_linux_installer.run">Linux x64 installer (.run)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.3/SpiderSuite_v1.0.3_linux.AppImage">Linux x64 portable (.AppImage)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.3/SpiderSuite_v1.0.3_linux.tar.gz">Linux x64 portable (.tar.gz)</a></li>
+    <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.3/SpiderSuite_v1.0.3_user_guide.pdf">PDF user guide</a></li><br>
+    <h3>Changelog:</h3>
+    <li>Fixed Wappalyzer's slow analysis</li>
+    <li>Removed tree source view in favor of text editor code folding.</li>
+    <li>Added new application theme (Fusion).</li>
+    <li>Added multiple new themes for the text editor.</li>
+    <li>Minor performance improvements.</li>
+    </div>
+</div>
+
+<div class="box">
     <p class="title is-4">Download SpiderSuite v1.0.2</p>
     <div class="content">
     <li> <a href="https://github.com/3nock/SpiderSuite/releases/download/v1.0.2/SpiderSuite_v1.0.2_win64_installer.exe">Windows x64 installer</a></li>
